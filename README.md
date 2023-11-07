@@ -1,5 +1,8 @@
 ### Allfab 👋
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabien-allamanche-64456268/)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mapstodon.space/@allfab)
+
 Vous trouverez ici ma collection personnelle de modèles et des configurations pour divers outils et technologies. 
 
 ## Documentation

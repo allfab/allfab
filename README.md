@@ -24,7 +24,7 @@ Cela fait longtemps que je désire m'équiper d'un NAS. Après avoir longtemps t
 ### 🗺️🛰️📖 GARMIN IGN BDTOPO MAP
 Si vous souhaitez créer une carte personnalisée, de randonnée ou topographique, compatible avec les produits Garmin, vous vous trouvez au bon endroit !
 
-![garmin-ign-bdtopo-map](https://allfab.github.io/garmin-ign-bdtopo-map/assets/images/overview/logo-light.png)
+![garmin-ign-bdtopo-map](https://allfab.github.io/garmin-ign-bdtopo-map/assets/images/overview/logo-dark.png)
 - [Garmin IGN BDTOPO MAP](https://allfab.github.io/garmin-ign-bdtopo-map/) - Ensemble des pratiques et outils utilisés pour monter son homelab.
 
 #

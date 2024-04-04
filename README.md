@@ -18,7 +18,7 @@ Vous trouverez ici ma collection personnelle de modèles et des configurations p
 Cela fait longtemps que je désire m'équiper d'un NAS. Après avoir longtemps tergiversé sur la question de m'équiper d'un NAS du commerce (Synology, QNAP, etc) et sur quel modèle choisir, j'ai opté pour un Homelab à assembler, installer et configurer soi-même. En voici la documentation.
 
 ![perfect-homelab](https://perfecthomelab.allfabox.fr/assets/images/overview/logo.png)
-- [Perfect-Homelab](https://perfecthomelab.allfabox.fr/) - Ensemble des pratiques et outils utilisés pour ce monter son homelab .
+- [Perfect-Homelab](https://perfecthomelab.allfabox.fr/) - Ensemble des pratiques et outils utilisés pour monter son homelab.
 
 #
 

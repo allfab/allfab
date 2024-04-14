@@ -15,6 +15,7 @@ Vous trouverez ici ma collection personnelle de modèles et des configurations p
 #
 
 ### 🖥📖 Perfect-Homelab
+[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 Cela fait longtemps que je désire m'équiper d'un NAS. Après avoir longtemps tergiversé sur la question de m'équiper d'un NAS du commerce (Synology, QNAP, etc) et sur quel modèle choisir, j'ai opté pour un Homelab à assembler, installer et configurer soi-même. En voici la documentation.
 
 ![perfect-homelab](https://perfecthomelab.allfabox.fr/assets/images/overview/logo.png)

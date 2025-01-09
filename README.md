@@ -6,6 +6,13 @@
 
 #
 
+### 🛟📖 NixOS Installation Guide
+Ce guide est un guide complémentaire au manuel officiel.
+
+- [Guide](https://github.com/allfab/nixos-installation-guide) - Guide d'installation de NixOS.
+
+#
+
 ### 🛟📖 Documentation
 Vous trouverez ici ma collection personnelle de modèles et des configurations pour divers outils et technologies. 
 

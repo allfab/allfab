@@ -1,6 +1,6 @@
 ### Allfab 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabien-allamanche-64456268/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabien-allamanche-64456268/)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mapstodon.space/@allfab)
 [![BlueSky](https://img.shields.io/badge/-BLUESKY-%232B90D9?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/allfabox.fr)
 

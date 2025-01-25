@@ -8,6 +8,13 @@
 
 #
 
+### ☁️📖 Mes configurations Cloud-init
+Partage des fichiers `user-data` (**cloud-config**) pour la création de VMs ou d'instances **Cloud-init**
+
+- [userd-data](https://github.com/allfab/cloud-init-config) - Mes `user-data` (**cloud-config**).
+
+#
+
 ### ❄️📖 NixOS Installation Guide
 Ce guide est un guide complémentaire au manuel officiel.
 
